@@ -6,4 +6,4 @@
 
 ### Скриншот верхней части страницы в десктопном виде
 
-![](github.com/shlyapos/web-climbing/blob/main/web-course_geekbrains-logitech/img/screenshot-desktop.jpg)
+![](https://github.com/shlyapos/web-climbing/blob/main/web-course_geekbrains-logitech/img/screenshot-desktop.jpg)
