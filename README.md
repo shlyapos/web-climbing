@@ -14,10 +14,9 @@
 
 ![](https://github.com/shlyapos/bmstu_db_proj/blob/main/Documents/screenshot_3.png)
 
-- [Сайт для просмотра GitHub репозиториев с использованием API (WIP)](https://github.com/shlyapos/kts-summer-2021-GitHowCoolAU)
+- [Сайт для просмотра GitHub репозиториев с использованием API (Done)](https://github.com/shlyapos/kts-summer-2021-GitHowCoolAU)
 
-![image](https://user-images.githubusercontent.com/48223723/135540473-a5fd86fa-9d80-4275-b96e-4ea049d01b24.png)
-
+![image](https://user-images.githubusercontent.com/48223723/137636968-5470ccd7-14f3-486b-b5f3-eb285e0e17ac.png)
 
 <a name="stats"></a> 
 ## Статистика
@@ -54,8 +53,8 @@
 В обозримом будующем хотелось бы изучить:
 - Frontend
   - Redux
-  - Nest.JS
-  - Vue.JS
+  - Nest.js
+  - Vue.js
   - Vuex
   - PostCSS
   - Svelte
